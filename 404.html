@@ -1,15 +1,10 @@
 ---
-layout: page
-title: Page not found
-image:
+layout: not_found
+title: 404
 permalink: /404.html
 ---
-<div class="container">
-  <div class="row">
-    <div class="col col-12" style="text-align: center">
-      <h2>404</h2>
-      <p>The requested page could not be found.</p>
-      <p><a href="{{site.baseurl}}/">Back to the bLog</a></p>
-    </div>
-  </div>
-</div>
+{% include switch.html %}
+<div class="name">Brittany Chiang</div>
+<img src="{{site.baseurl}}/img/emojis/thinking-face.png" alt="">
+<h1>Hmmm...</h1>
+<h2>Looks like there's nothing here.<br>Maybe you should go back <a href="{{site.url}}">home</a>.</h2>
