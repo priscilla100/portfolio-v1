@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: Priscilla Kyei Danso - Portfolio
 logo: logo.png
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: priscillakyeidanso@gmail.com
+phone: +233 248 168 745
+address: East Legon, Accra Ghana, USA
 
 menu:
 - {name: About, link: '/about/'}
@@ -35,13 +35,13 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Priscilla <br> Data Engineer
 
 social:
 - {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/iam_scylla/"}
+- {icon: "ti-linkedin", link: "#"}
+- {icon: "ti-twitter", link: "https://twitter.com/_ewurabena"}
 
 
 #-------------------------------
@@ -49,7 +49,15 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Hi, I am Priscilla Kyei Danso. This is the most you can know about me,
+  By day you will find me creating <b>ETL pipelines</b>,
+  I am probably building Data Warehouses or Analysing customer transaction data to find insights to optimize data-driven decision making
+  or better still building CI/CD pipelines.
+
+  By night, you will catch me creating website using Laravel Framework, hosting done on Heroku app server and file uploads stored on Amazon S3 server.
+
+  That's it!
+
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -92,10 +100,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Data Warehousing, color: '#fdb157', value: '90%'}
+- {name: Data Mining, color: '#9473e6', value: '60%'}
+- {name: Data Analysis, color: '#bdecf6', value: '80%'}
+- {name: Website Design, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
