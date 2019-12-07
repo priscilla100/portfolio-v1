@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74af6818-ad84-4c42-a045-766ee41b3aea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/featured/bigdata.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/featured/images.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/featured/pandas.jfif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/featured/programming_code_screen_display.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/featured/searchEnterpriseAI_017.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/featured-projects.html" afterPath="$PROJECT_DIR$/_includes/featured-projects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="featured-projects.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="featured-projects.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/featured-projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="69" column="32" lean-forward="false" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+            <state relative-caret-position="90">
+              <caret line="95" column="4" lean-forward="false" selection-start-line="95" selection-start-column="8" selection-end-line="107" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,16 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skills.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/skills.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -434,12 +427,12 @@
       <updated>1575724814626</updated>
       <workItem from="1575724817287" duration="125000" />
       <workItem from="1575726052821" duration="3988000" />
-      <workItem from="1575732708046" duration="10735000" />
+      <workItem from="1575732708046" duration="10914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14848000" />
+    <option name="totallyTimeSpent" value="15027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -836,8 +829,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/featured-projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="69" column="32" lean-forward="false" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+        <state relative-caret-position="90">
+          <caret line="95" column="4" lean-forward="false" selection-start-line="95" selection-start-column="8" selection-end-line="107" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
