@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Priscilla Kyei Danso
+title: Priscilla Kyei Danso | Data Engineer
+description: Build Data Warehouse, ETL Pipeline coupled with analysing customer transaction data to optimize data driven decision making
+url: https://priscilla100.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: priscillakyeidanso@gmail.com
+cover: https://priscilla100.github.io/img/og.png
+logo: https://priscilla100.github.io/img/emojis/technologist.png
+resume: https://priscilla100.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:priscillakyeidanso@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/_ewurabena
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/iam_scylla
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/priscilla100
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/priscilla-kyei-danso/
 
 # Build settings
 markdown: kramdown
