@@ -50,5 +50,5 @@
     - thing: Jenkins
     - thing: Ansible
     - thing: Nginx
-    - thing: uwsgi
+    - thing: Uwsgi
 
