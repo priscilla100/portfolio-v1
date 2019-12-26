@@ -1,5 +1,5 @@
 - name: Food and Lifestyle Ghana
-  url: https://github.com/priscilla100/AkuaFoodBlog
+  url: http://www.foodandlifestylegh.com/
   code: https://github.com/priscilla100/AkuaFoodBlog
   description: A Laravel website with an admin panel where tags,posts,categories are added and displayed at the user panel. Application is hosted on Heroku and uploaded are stored s3
   used:
@@ -11,7 +11,7 @@
     - thing: CKEditor
 
 - name: Hazel Hair Ghana
-  url: https://github.com/priscilla100/hazelhair
+  url: http://www.hazelhair.shop/
   code: https://github.com/priscilla100/hazelhair
   description: A Laravel ecommerce website with an admin panel where tags,posts,categories are added and displayed at the user panel. Application is hosted on Heroku and uploaded are stored s3
   used:
@@ -23,7 +23,7 @@
     - thing: CKEditor
 
 - name: Itron Ghana
-  url: https://github.com/priscilla100/itrongh
+  url: http://www.itrongh.com/
   code: https://github.com/priscilla100/itrongh
   description: A consultancy website for a company that delve in; Oil and Gas, Construction, Civil Engineerign just to list a few
   used:
