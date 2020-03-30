@@ -1,7 +1,7 @@
 {
   "name": "priscilladanso.com",
   "version": "0.0.0",
-  "description": "A data engineer focused on building Data Warehouse, ETL Pipeline coupled with analysing customer transaction data to optimize data-driven decision making",
+  "description": "Analyze customer transaction data to optimize data-driven decision making",
   "repository": {
     "type": "git",
     "url": "https://github.com/priscilla100/priscilla100.github.io"
