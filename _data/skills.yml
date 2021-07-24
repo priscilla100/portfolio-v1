@@ -4,10 +4,12 @@ languages:
   - item: HTML
   - item: CSS
   - item: SQL
-  - item:
+  - item: Javascript
   - item:
 
 frameworks:
+  - item: Laravel
+  - item: Vue Js
   - item: Pandas
   - item: Scikit Learn
   - item: Apache Spark
@@ -25,6 +27,8 @@ tools:
   - item: Heroku
   - item: Postgresql
   - item: MySql
+  - item: Selenium
+
 
 automation:
   - item: Jenkins

@@ -1,24 +1,24 @@
 <footer class="footer">
-  <div class="footer__copyright">
-    <div class="top">
-      <span><a href="https://brittanychiang.com/">Theme Designed by</a></span>
-      <span><a href="https://brittanychiang.com/">Brittany Chiang</a></span>
-      <img class="emoji" src="{{site.baseurl}}/img/emojis/rockon.png" alt="emoji">
+    <div class="footer__copyright">
+        <div class="top">
+            <span><a href="https://brittanychiang.com/">Theme Designed by</a></span>
+            <span><a href="https://brittanychiang.com/">Brittany Chiang</a></span>
+            <img class="emoji" src="{{site.baseurl}}/img/emojis/rockon.png" alt="emoji">
 
+        </div>
+        <div class="bottom">
+            <span>Developed by</span>
+            <span>Priscilla Kyei Danso</span>
+            <img class="emoji" src="{{site.baseurl}}/img/emojis/rockon.png" alt="emoji">
+            <span>2021</span>
+        </div>
     </div>
-    <div class="bottom">
-      <span>Developed by</span>
-      <span>Priscilla Kyei Danso</span>
-      <img class="emoji" src="{{site.baseurl}}/img/emojis/rockon.png" alt="emoji">
-      <span>2020</span>
+    <div class="footer__links">
+        {% for link in site.social %}
+        <a href="{{link.url}}" target="_blank" title="{{link.title}}">
+            <span class="text">{{link.title}}</span>
+            <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
+        </a>
+        {% endfor %}
     </div>
-  </div>
-  <div class="footer__links">
-    {% for link in site.social %}
-    <a href="{{link.url}}" target="_blank" title="{{link.title}}">
-      <span class="text">{{link.title}}</span>
-      <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
-    </a>
-    {% endfor %}
-  </div>
 </footer>
